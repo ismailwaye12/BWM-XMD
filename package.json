@@ -1,6 +1,6 @@
 
 {
-  "name": "Bwm-xmd",
+  "name": "BOYKA",
   "version": "2.0.0",
   "description": "",
   "main": "body.js",
@@ -19,9 +19,9 @@
     "bmw",
     "whatsapp",
     "whatsapp-bot",
-    "Ibrahim-Adams"
+    "BOYKA MD"
   ],
-  "author": "Ibrahim Adams",
+  "author": "BOYKA",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
